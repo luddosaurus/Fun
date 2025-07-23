@@ -11,4 +11,9 @@ fun main() {
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         println("i = $i")
     }
+
+}
+
+fun add(a: Int, b:Int) : Int {
+    return a + b
 }
